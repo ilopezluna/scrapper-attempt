@@ -25,6 +25,7 @@
 [INFO] |     |  +- org.jetbrains.kotlin:kotlin-stdlib-common:jar:1.9.10:compile
 [INFO] |     |  \- org.jetbrains:annotations:jar:13.0:compile
 [INFO] |     \- org.jetbrains.kotlin:kotlin-stdlib-jdk7:jar:1.9.10:compile
+[INFO] +- dev.langchain4j:langchain4j-document-transformer-jsoup:jar:0.35.0:compile
 [INFO] +- org.testcontainers:ollama:jar:1.20.2:compile
 [INFO] |  \- org.testcontainers:testcontainers:jar:1.20.2:compile
 [INFO] |     +- junit:junit:jar:4.13.2:compile
@@ -42,6 +43,6 @@
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time:  0.611 s
-[INFO] Finished at: 2024-10-03T23:48:02+02:00
+[INFO] Total time:  0.519 s
+[INFO] Finished at: 2024-10-05T21:54:46+02:00
 [INFO] ------------------------------------------------------------------------
